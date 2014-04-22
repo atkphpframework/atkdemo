@@ -1,7 +1,9 @@
 atkdemo
 =======
 
-ATK Demo is a lesson-based demo application for the ATK Framework. ATK Demo illustrates basic concepts of the ATK Framework through a series of lessons.
+AtkDemo is a lesson-based demo application for the ATK Framework, illustrating the basic concepts of the ATK Framework through a series of lessons. See doc/INSTALL for instructions.
+
+AtkDemo currently uses ATK Framework v6.5.0.
 
 ATK Demo is licensed under the terms of the GNU GPL v2.
 

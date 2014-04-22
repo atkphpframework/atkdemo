@@ -1,0 +1,13 @@
+<?php
+
+  $en = array(
+    "view_source" => "View the source for this node",
+    "sourceviewer" => "Source viewer",
+    "the_source_for" => "The source for",
+    "menu_modulesource" => "Module source",
+    "module" => "module",
+    "node" => "node",
+    "invalid_file" => "Invalid module or node for source viewer.",
+    "sourcecode_of" => "Sourcecode of file",
+  );
+?>
